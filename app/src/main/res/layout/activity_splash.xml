@@ -16,17 +16,18 @@
 
         <ImageView
             android:layout_width="wrap_content"
-            android:layout_height="759dp"
-            android:background="@drawable/bg1" />
+            android:layout_height="690dp"
+            android:background="@drawable/gbr1" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="V.1.0"
+            android:layout_marginTop="0dp"
+            android:text="V.1.5"
+            android:textColor="@color/red"
             android:textSize="25dp"
-            android:layout_marginTop="30dp"
-            android:textStyle="italic"
-            android:textColor="@color/red"/>
+            android:textStyle="italic" />
+
     </LinearLayout>
 
     <ProgressBar

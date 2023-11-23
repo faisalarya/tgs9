@@ -56,7 +56,7 @@
         android:textColor="@color/colorPrimary"
         android:textSize="160sp"
         android:textStyle="bold"
-        android:background="@drawable/bg3"
+        android:background="@drawable/gbr5"
         app:layout_constraintBottom_toTopOf="@+id/button2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -40,8 +40,8 @@
                 android:layout_height="wrap_content"
                 android:autoLink="web"
                 android:lineSpacingExtra="@dimen/padding_regular"
-                android:background="@drawable/bg4"
-                android:textColor="@color/black"
+                android:background="@drawable/gbr4"
+                android:textColor="@color/red"
                 android:text="@string/articel_text" />
         </LinearLayout>
     </ScrollView>
